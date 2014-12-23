@@ -1,0 +1,5 @@
+com/backend/rest/App.class
+com/backend/rest/models/User.class
+com/backend/rest/utils/Connector.class
+com/backend/rest/utils/Common.class
+com/backend/rest/services/Users.class
